@@ -1,0 +1,25 @@
+{
+  "duration": 86.1,
+  "voice": "zh-CN-YunxiNeural",
+  "speech_segments": 27,
+  "no_sentence_overlap": true,
+  "full_decode": "passed",
+  "mix_peak": 0.7800000309944153,
+  "files": [
+    {
+      "path": "style02-narrated/renders/小岛经济学-海蓝像素-中文旁白版.mp4",
+      "bytes": 36083875,
+      "sha256": "2a7ccf41ad5c1b8e6b18d3ac433b366eb2919d3678d4b5c1b9cbc9b51f100181"
+    },
+    {
+      "path": "style02-narrated/renders/小岛经济学-海蓝像素-仅旁白无配乐.mp4",
+      "bytes": 36004096,
+      "sha256": "047226cd9526dacdd411af727533378cc5220a3d83116f685ae2df2cd783d397"
+    }
+  ],
+  "download": {
+    "path": "downloads/island-economics-narrated.mp4",
+    "bytes": 36004096,
+    "sha256": "047226cd9526dacdd411af727533378cc5220a3d83116f685ae2df2cd783d397"
+  }
+}

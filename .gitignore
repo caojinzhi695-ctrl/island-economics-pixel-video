@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.log
+audio/bgm.*
+audio/music.wav
+style02/renders/
+style02/review/
+style02-rhythm/
+style02-narrated/renders/
+style02-narrated/review/
+style02-narrated/audio/music.wav
+style02-narrated/audio/完整混音.wav
